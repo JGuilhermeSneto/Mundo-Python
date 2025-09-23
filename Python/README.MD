@@ -1,0 +1,1 @@
+Esta readme serve para estudos de python e django
